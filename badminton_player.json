@@ -1,0 +1,77 @@
+{
+    "result": [
+      {
+        "no": "1",
+        "name": "Viktor Axelsen",
+        "birth_date": "1994-01-04",
+        "birth_place": "Odense, Denmark",
+        "Position": "Tunggal Putra",
+        "International": "Denmark",
+        "Poster": "https://i.postimg.cc/NMCZxzPJ/viktor-axelsen.jpg"
+      },
+      {
+        "no": "2",
+        "name": "Anthony Sinisuka Ginting",
+        "birth_date": "1996-10-20",
+        "birth_place": "Cimahi, Indonesia",
+        "Position": "Tunggal Putra",
+        "International": "Indonesia",
+        "Poster": "https://i.postimg.cc/Ls2d4f1T/anthony-ginting.jpg"
+      },
+      {
+        "no": "3",
+        "name": "Li Shi Feng",
+        "birth_date": "1995-01-09",
+        "birth_place": "Nanchang, Jiangxi, China",
+        "Position": "Tunggal Putra",
+        "International": "China",
+        "Poster": "https://i.postimg.cc/mZq0zK9h/li-shi-feng.jpg"
+      },
+      {
+        "no": "4",
+        "name": "Jonatan Christie",
+        "birth_date": "1997-10-15",
+        "birth_place": "Jakarta, Indonesia",
+        "Position": "Tunggal Putra",
+        "International": "Indonesia",
+        "Poster": "https://i.postimg.cc/x8W7wbQL/jonathan-christie.jpg"
+      },
+      {
+        "no": "5",
+        "name": "Kodai Naraoka",
+        "birth_date": "2001-06-30",
+        "birth_place": "Aomori, Japan",
+        "Position": "Tunggal Putra",
+        "International": "Japan",
+        "Poster": "https://i.postimg.cc/dtZc5JF8/kodai-naraoka.jpg"
+      },
+      {
+        "no": "6",
+        "name": "Kunlavut Vitidsarn",
+        "birth_date": "2001-05-11",
+        "birth_place": "Chonburi, Thailand",
+        "Position": "Tunggal Putra",
+        "International": "Thailand",
+        "Poster": "https://i.postimg.cc/52wdMp6y/kunlavut-vitidsarn.jpg"
+      },
+      {
+        "no": "7",
+        "name": "Shi Yu Qi",
+        "birth_date": "1996-02-28",
+        "birth_place": "Nantong, Jiangsu, China",
+        "Position": "Tunggal Putra",
+        "International": "China",
+        "Poster": "https://i.postimg.cc/JzwVgS7S/shi-yu-qi.jpg"
+      },
+      {
+        "no": "8",
+        "name": "Prannoy H. S.",
+        "birth_date": "1992-07-17",
+        "birth_place": "Delhi, India",
+        "Position": "Tunggal Putra",
+        "International": "India",
+        "Poster": "https://i.postimg.cc/9MxHnMzB/prannoy-hs.jpg"
+      }
+    ]
+  }
+  
